@@ -35,7 +35,6 @@ export EXT_MODULES="
   vendor/qcom/opensource/datarmnet-ext/wlan
   vendor/qcom/opensource/securemsm-kernel
   vendor/qcom/opensource/display-drivers/msm
-  vendor/qcom/opensource/eva-kernel
   vendor/qcom/opensource/video-driver
   vendor/qcom/opensource/graphics-kernel
   vendor/qcom/opensource/touch-drivers
@@ -45,7 +44,6 @@ export EXT_MODULES="
   vendor/qcom/opensource/nfc-st-driver
   vendor/qcom/opensource/eSE-driver
   vendor/nxp/opensource/driver
-  vendor/oplus/kernel/explorer
 "
 
 export LTO=thin
